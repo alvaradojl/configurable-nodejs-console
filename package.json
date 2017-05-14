@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^2.9.0",
-    "forever": "^0.15.3",
     "nconf": "^0.8.4",
     "web3": "^0.19.0"
   }
